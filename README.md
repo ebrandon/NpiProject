@@ -11,7 +11,9 @@ The program takes in a spreadsheet, and allows you to specify the columns to use
 # Requirements
 The program runs using Python 3. Requirements are included in the requirements.txt file.
 
-To run the program, go to the python folder and use the command - python3 npiProgram.py
+Once requirements have been installed, the program can be seen by going to the python folder and running the following command:
+
+```python3 npiProgram.py```
 
 There is a sample file in the data folder that can be used as an input file
 
