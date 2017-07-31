@@ -13,7 +13,9 @@ The program runs using Python 3. Requirements are included in the requirements.t
 
 Once requirements have been installed, the program can be seen by going to the python folder and running the following command:
 
-```python3 npiProgram.py```
+```
+python3 npiProgram.py
+```
 
 There is a sample file in the data folder that can be used as an input file
 
